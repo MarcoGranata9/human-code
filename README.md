@@ -1,0 +1,1 @@
+![Diagramma di flusso](img/Diagramma%20senza%20titolo.jpg)
