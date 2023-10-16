@@ -1,1 +1,1 @@
-![Diagramma di flusso](img/Diagramma%20senza%20titolo.jpg)
+![Diagramma di flusso](img/Diagramma-di-flusso.jpg)
